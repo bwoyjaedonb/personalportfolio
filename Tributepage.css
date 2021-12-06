@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+    font-family: 'Lobster', cursive;
+    
+  }
+  #img-caption{
+    text-align: center;
+  }
+  #tribute-link{
+    color: black;
+    
+  }
+  img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin:auto;
+    
+  }
+ 
+  h1{
+    text-align: center;
+  }
+
+  footer{
+    font-family: roboto;
+    color:blue;
+  }
